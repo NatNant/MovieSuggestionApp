@@ -1,0 +1,45 @@
+@media only screen  and (max-width:200px) 
+  {
+  	main {
+  		font-size: 200%;
+  	background: blue; }
+  }
+
+
+header{
+	color: orange;
+	padding:20pt 0 20pt 0;
+	font-size: 40px;    /* old */
+	font-size: 4vm;   /* IE9 */
+
+}
+
+body{
+	background: #21212c;
+	font-family: "Lucida Console", Monaco, monospace;
+}
+
+main{
+	color: white;
+	word-wrap: break-word;
+	font-size: 15px;    /* old */
+	font-size: 1.5vm;   /* IE9 */
+
+}
+
+footer{
+	padding:20pt 0 20pt 0;
+}
+
+.glyphicon-plus-sign{
+	color: orange;
+}
+
+.comment_title{
+	color: orange;
+}
+
+#post_title{
+	font-size: 30px;    /* old */
+	font-size: 3vm;   /* IE9 */
+}
